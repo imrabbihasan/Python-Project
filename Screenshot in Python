@@ -1,0 +1,4 @@
+# For mac pip3 install pyautogui | For win pip install pyautogui
+import pyautogui
+myScreenshot=pyautogui.screenshot()
+myScreenshot.save(r'/Users/imrabbihasan/Desktop/untitled folder/untitled folder:\online.png')
